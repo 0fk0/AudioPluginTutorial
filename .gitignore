@@ -1,4 +1,5 @@
 # Buildsフォルダ内は無視
 Builds/
 
+# JuceLibraryCodeフォルダ内は無視
 JuceLibraryCode/
